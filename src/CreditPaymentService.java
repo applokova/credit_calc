@@ -1,3 +1,5 @@
+package src;
+
 public class CreditPaymentService {
     public int calculate(double sum, double bid, int per) {
         int result;
